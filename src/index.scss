@@ -6,7 +6,42 @@ html {
   height: 100%;
 }
 
+main {
+  background-image: url('https://previews.123rf.com/images/sosiukin/sosiukin2005/sosiukin200500247/146618099-top-view-of-american-money-background-pile-of-dollar-cash-paper-banknotes-concept-.jpg');
+}
+header div {
+  text-align: center;
+  margin-right: 3.5rem;
+  color: red;
+  font-size: 5rem;
+}
+.currency {
+  text-align: center;
+  margin-right: 4rem;
+  color: red;
+  font-size: 5rem;
+}
+.converter {
+  text-align: center;
+  margin-right: 2rem;
+  line-height: 2;
+  font-size: 5rem;
+}
+
+.converterinput {
+  align-self: center;
+  margin-right: 2rem;
+  height: 20px;
+}
 body {
   margin: 0;
   min-height: 100%;
+}
+
+footer {
+  background-image: url('https://previews.123rf.com/images/sosiukin/sosiukin2005/sosiukin200500247/146618099-top-view-of-american-money-background-pile-of-dollar-cash-paper-banknotes-concept-.jpg');
+  text-align: center;
+  margin-right: 4rem;
+  color: red;
+  font-size: 5rem;
 }
