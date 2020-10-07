@@ -12,22 +12,26 @@ main {
 header div {
   text-align: center;
   margin-right: 3.5rem;
-  color: red;
-  font-size: 5rem;
+  color: rgb(16, 48, 233);
+  font-size: 4rem;
+}
+
+.convertertextbox {
+  width: 50%;
+  padding: 12px;
 }
 .currency {
   text-align: center;
   margin-right: 4rem;
-  color: red;
-  font-size: 5rem;
+  color: rgb(16, 48, 233);
+  font-size: 4rem;
 }
 .converter {
   text-align: center;
   margin-right: 2rem;
   line-height: 2;
-  font-size: 5rem;
+  font-size: 4rem;
 }
-
 .converterinput {
   align-self: center;
   margin-right: 2rem;
@@ -42,6 +46,6 @@ footer {
   background-image: url('https://previews.123rf.com/images/sosiukin/sosiukin2005/sosiukin200500247/146618099-top-view-of-american-money-background-pile-of-dollar-cash-paper-banknotes-concept-.jpg');
   text-align: center;
   margin-right: 4rem;
-  color: red;
-  font-size: 5rem;
+  color: rgb(16, 48, 233);
+  font-size: 4rem;
 }
